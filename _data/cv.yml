@@ -33,28 +33,20 @@ cv:
         location: Baltimore, MD, USA
         area: Biomedical Engineering
         studyType: MS
+        end_date: 2020
 
       - institution: Johns Hopkins University
         location: Baltimore, MD, USA
         area: Biomedical Engineering
         studyType: BS
+        end_date: 2017
 
     Experience:
       - company: Allen Institute for Neural Dynamics
         position: Postdoctoral Researcher, Theory Division
         location: Seattle, WA, USA
-        start_date: 2024
+        start_date: 2025
         end_date: present
         summary: Conducting research on computational models of naturalistic behavior and neural systems.
         highlights:
           - Advised by Laura Driscoll.
-
-    Languages:
-      - name: English
-        summary: Fluent
-
-    Awards:
-      - title: [Award Name]
-        date: 20XX
-        awarder: [Organization]
-        summary: [Short context]
