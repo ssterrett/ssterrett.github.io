@@ -27,8 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a postdoctoral researcher in the Theory at the Allen Institute for Neural Dynamics, currently advised by Laura Driscoll. My work focuses on computational approaches to understanding naturalistic behavior and neural systems.
+I am a postdoctoral researcher in Theory at the Allen Institute for Neural Dynamics, advised by Laura Driscoll. My work focuses on computational approaches to understanding naturalistic behavior and neural systems.
 
 I completed my PhD in Neuroscience at the University of Washington with Adrienne Fairhall. I earned a BS and MS in Biomedical Engineering at Johns Hopkins University.
-
-On this site, you can find my [CV](/cv/) and [publications](/publications/).
