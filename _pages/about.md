@@ -2,14 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral Researcher at the Allen Institute for Neural Dynamics
+subtitle:
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Theory Division, Allen Institute for Neural Dynamics</p>
     <p>615 Westlake Ave N</p>
     <p>Seattle, WA 98109</p>
 
